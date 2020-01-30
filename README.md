@@ -1,6 +1,11 @@
 # change-address-mac-linux
 Change address mac on Linux with macchanger.
 
+If you haven't macchanger :
+```
+apt-get update && apt-get install macchanger
+```
+
 First step, download the bash script :
 ```
 wget https://github.com/akileine13/change-address-mac-linux/blob/master/changeAddressMac.sh
