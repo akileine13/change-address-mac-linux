@@ -6,9 +6,10 @@ If you haven't macchanger:
 apt-get update && apt-get install macchanger
 ```
 
-First step, download the bash script:
+First step, download the bash script and go in folder:
 ```
-wget https://github.com/akileine13/change-address-mac-linux/blob/master/changeAddressMac.sh
+git clone https://github.com/akileine13/change-address-mac-linux.git
+cd change-address-mac-linux
 ```
 Second step, give rights to the file:
 ```
