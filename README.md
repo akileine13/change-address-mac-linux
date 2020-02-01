@@ -15,7 +15,7 @@ Second step, give rights to the file:
 ```
 chmod +x changeAddressMac.sh
 ```
-**If you use ethernet connection, replace wlan0 with eth0.** 
+**If you use ethernet connection, replace wlan0 with eth0 in bash script.** 
 
 And for finish, launch script:
 ```
